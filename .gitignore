@@ -1,0 +1,16 @@
+# Java compiled files
+*.class
+
+# Maven generated folder
+target/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
